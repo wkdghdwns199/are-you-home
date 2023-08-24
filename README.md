@@ -4,12 +4,10 @@
 
 ###  UI
 
-![image](https://github.com/wkdghdwns199/are-you-home/assets/35947667/40ac5dc4-f30a-46a4-8649-d8bbf45a9964)
-
-![image](https://github.com/wkdghdwns199/are-you-home/assets/35947667/2b80d772-99d6-40de-9f6c-145184669016)
-
-![image](https://github.com/wkdghdwns199/are-you-home/assets/35947667/d767435a-13d7-4545-a262-343fad07b195)
+![MainScreen](https://github.com/wkdghdwns199/are-you-home/assets/35947667/8294781c-d55a-4c84-857d-fefeda637b5e)
 
 
+![WarningAlert](https://github.com/wkdghdwns199/are-you-home/assets/35947667/4ab09acb-5472-4d9e-903e-55fa93e4ac00)
 
 
+![SettingScreen](https://github.com/wkdghdwns199/are-you-home/assets/35947667/e5ba6830-26f8-41f1-8d27-d02b3341b8f9)
