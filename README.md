@@ -4,7 +4,7 @@
 
 ###  UI
 
-![MainScreen](https://github.com/wkdghdwns199/are-you-home/assets/35947667/8294781c-d55a-4c84-857d-fefeda637b5e)
+<img src="[이미지주소.png](https://github.com/wkdghdwns199/are-you-home/assets/35947667/8294781c-d55a-4c84-857d-fefeda637b5e)" width="200" height="400"/>
 
 
 ![WarningAlert](https://github.com/wkdghdwns199/are-you-home/assets/35947667/4ab09acb-5472-4d9e-903e-55fa93e4ac00)
