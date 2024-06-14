@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "are-you-home",
+    "slug": "are-you-home",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/iconKing.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./images/splashScreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./images/iconKing.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.qnoze.areyouhome"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eee5c159-0da1-4838-92d9-cb0ba81d445f"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/eee5c159-0da1-4838-92d9-cb0ba81d445f"
+    }
+  }
+}
